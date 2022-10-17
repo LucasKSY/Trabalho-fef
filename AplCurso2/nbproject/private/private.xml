@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/cadastros/menuLogado.jsp</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/dao/PessoaDAO.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/controller/fornecedor/FornecedorCarregar.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/cadastros/fornecedor/fornecedor.jsp</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/dao/AdministradorDAO.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/login.jsp</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/controller/usuario/UsuarioLogar.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/model/Pessoa.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/controller/fornecedor/FornecedorExcluir.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/cadastros/menuCliente.jsp</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/dao/FornecedorDAO.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/cadastros/menuFornecedor.jsp</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/cadastros/menuAdministrador.jsp</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/src/java/br/com/curso/controller/fornecedor/FornecedorCadastrar.java</file>
+            <file>file:/C:/Users/55179/Desktop/AplCurso2/web/cadastros/homeLogado.jsp</file>
+        </group>
+    </open-files>
+</project-private>
